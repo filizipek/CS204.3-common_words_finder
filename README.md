@@ -1,7 +1,5 @@
 # Common Words Finder
 
-## By Filiz Ipek Oktay - 30780
-
 ### Overview
 
 This C++ program utilizes stacks to identify common words between two text files. It prompts users to input file names, reads the files, and displays words that occur in both files along with their occurrence count.
